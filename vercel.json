@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "http://101.34.209.245:3000/"
+      "destination": "https://netease-cloud-music-api-navy-delta.vercel.app/"
     }
   ]
 }
